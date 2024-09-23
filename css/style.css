@@ -1,4 +1,7 @@
 .jumbotron {
-    background-image: url("../img/pexels-alexisricardoalaurin-27895383.jpg")
-     500px;
+    background-image: url("../img/pexels-alexisricardoalaurin-27895383.jpg");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
 }
